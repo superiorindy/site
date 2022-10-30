@@ -1,21 +1,36 @@
 main:
   - name: "Services"
     url: "/services/"
+    new_window: "false"
     weight: 2
   - name: "Team"
     url: "/team/"
+    new_window: "false"
     weight: 3
   - name: "About"
     url: "/about/"
+    new_window: "false"
     weight: 4
   - name: "Contact"
     url: "/contact/"
+    new_window: "false"
     weight: 5
+  - name: "Pricing"
+    url: "/pricing/"
+    new_window: "false"
+    weight: 6
+  - name: "Login"
+    url: "https://www.flightcircle.com"
+    new_window: "true"
+    weight: 7
+
 
 footer:
   - name: "Home"
     url: "/"
+    new_window: "false"
     weight: 1
   - name: "Contact"
     url: "/contact/"
+    new_window: "false"
     weight: 2

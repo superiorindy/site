@@ -1,27 +1,27 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Anderson Airport",
+    "description": "Flight training at Anderson Airport with two runways and a control tower.  Only 25 minutes from Fishers!  Convenient to all Muncie locations!",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/airport_symbol.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "New Cessna 172",
+    "description": "Train in a 2022 Cessna 172 with modern avionics and a comfortable interior",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/cessna.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Earn your Pilot's License",
+    "description": "Fly for pleasure, business, or a career after earning FAA pilot's certificates",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/license.svg",
       "width": 80,
       "height": 80
     }

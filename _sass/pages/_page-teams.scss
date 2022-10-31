@@ -12,7 +12,16 @@
       img {
         width: 60px;
       }
-    }
+      .team-image-sq {
+        height: 90px;
+        width: 154px;
+        margin-right: 20px;
+        overflow: hidden;
+        img {
+          width: 90px;
+        }
+      }
+      }
     .team-meta {
       flex: 1;
       h2 {
@@ -43,6 +52,15 @@
       width: 90px;
       margin-right: 20px;
       border-radius: 50%;
+      overflow: hidden;
+      img {
+        width: 90px;
+      }
+    }
+    .team-image-sq {
+      height: 90px;
+      width: 154px;
+      margin-right: 20px;
       overflow: hidden;
       img {
         width: 90px;

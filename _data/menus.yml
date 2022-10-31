@@ -1,28 +1,28 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Flight Training"
+    url: "/flight-training/"
     new_window: "false"
-    weight: 2
+    weight: 1
   - name: "Team"
     url: "/team/"
     new_window: "false"
-    weight: 3
-  - name: "About"
-    url: "/about/"
-    new_window: "false"
-    weight: 4
-  - name: "Contact"
-    url: "/contact/"
-    new_window: "false"
-    weight: 5
+    weight: 2
   - name: "Pricing"
     url: "/pricing/"
     new_window: "false"
-    weight: 6
+    weight: 3
+  - name: "Contact"
+    url: "/contact/"
+    new_window: "false"
+    weight: 4
+  - name: "About"
+    url: "/about/"
+    new_window: "false"
+    weight: 5
   - name: "Login"
     url: "https://www.flightcircle.com"
     new_window: "true"
-    weight: 7
+    weight: 6
 
 
 footer:

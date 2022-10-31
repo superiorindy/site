@@ -12,21 +12,14 @@ bodyClass: page-about
 **2022 Cessna 172 Aircraft Rental**
 - $180 per hobbs hour
 - Wet price (includes fuel)
-- Garmin G1000 Avionics
+- Garmin G1000Nxi Avionics
 - Garmin GFC500 Autopilot
-
-
+- Electronic Stability and Protection (ESP)
+- Under Speed Protection (USP)
 
 **Instruction Rates**
 - $50 per hour
 - Student pilot instruction rate
-
-| 2022 Cessna 172 Aircraft Rental | Instruction Rates |
-| ----------- | ----------- |
-| $180 per hobbs hour | $50 per hour |
-| Wet price (includes fuel) | Student pilot instruction rate | 
-| Garmin G1000 Avionics |  | 
-| Garmin GFC500 Autopilot |  | 
 
 ---
 

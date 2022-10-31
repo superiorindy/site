@@ -6,4 +6,4 @@ weight: 3
 
 Keep your instrument currency!
 
-![Instrument Rating](/images/instrument-view.jpg)
+![Instrument Rating](/images/instrument-view.png)

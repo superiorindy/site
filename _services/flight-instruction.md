@@ -12,4 +12,4 @@ Earn a flight certificate!
 
 ## Instrument Rating
 
-![Instrument Rating](/images/instrument-view.jpg)
+![Instrument Rating](/images/instrument-view.png)

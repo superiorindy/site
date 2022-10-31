@@ -7,4 +7,3 @@ The FAA requires a flight review every two years for currency.
 
 ![Instrument Rating](/images/instrument-view.png)
 
-![Discovery Flight](/images/disco_flight-2.png)

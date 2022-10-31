@@ -33,6 +33,10 @@ bodyClass: page-about
 
 [Venmo Link](https://venmo.com/SuperiorFlight)
 
+**Do you offer financing for flight training?**
+
+*Unfortunately Superior Flight Training does not offer financing.  However, [AOPA Finance](https://finance.aopa.org/flight-training-finance) offers a loan program designed for flight training*
+
 **Questions?**
 
 *Contact us for any further questions at <a href="mailto:info@superiorflighttraining.net">info@superiorflighttraining.net</a>.*
